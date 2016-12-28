@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BubblePop.Plugins", "BubblePop.Plugins.csproj", "{F31837E7-BEAE-0F70-41B8-A444064FFA5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BubblePop", "BubblePop.csproj", "{977C6450-6DBC-C070-6B57-83403E61C04E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BubblePop.Editor.Plugins", "BubblePop.Editor.Plugins.csproj", "{826B1E5A-1D37-360C-C8BA-131EFD815036}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BubblePop.Editor", "BubblePop.Editor.csproj", "{5593CCFA-063A-7B56-780D-EA05DE13A1BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F31837E7-BEAE-0F70-41B8-A444064FFA5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F31837E7-BEAE-0F70-41B8-A444064FFA5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F31837E7-BEAE-0F70-41B8-A444064FFA5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F31837E7-BEAE-0F70-41B8-A444064FFA5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{977C6450-6DBC-C070-6B57-83403E61C04E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{977C6450-6DBC-C070-6B57-83403E61C04E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{977C6450-6DBC-C070-6B57-83403E61C04E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{977C6450-6DBC-C070-6B57-83403E61C04E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{826B1E5A-1D37-360C-C8BA-131EFD815036}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{826B1E5A-1D37-360C-C8BA-131EFD815036}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{826B1E5A-1D37-360C-C8BA-131EFD815036}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{826B1E5A-1D37-360C-C8BA-131EFD815036}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5593CCFA-063A-7B56-780D-EA05DE13A1BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5593CCFA-063A-7B56-780D-EA05DE13A1BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5593CCFA-063A-7B56-780D-EA05DE13A1BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5593CCFA-063A-7B56-780D-EA05DE13A1BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

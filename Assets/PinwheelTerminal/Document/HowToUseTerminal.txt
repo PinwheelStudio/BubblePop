@@ -1,0 +1,15 @@
+DIRTY CODE, INTERNAL USE ONLY
+_____________
+PinwheelTerminal is a command-line tool that helps you increase productivity in some case.
+
+Open the Terminal window by select Window > Terminal, and dock it somewhere
+
+What it does:
+1. Call a method named methodName in any component of a GameObject:
+- Select the GameObject in the hierarchy panel
+- type in the command box: "call methodName" (no quotes). Ex: call Move. Then press ENTER
+- the method methodName must take zero argument, but it can return anything
+- most of the methods must be call in Play mode
+2. Rotating object: view source code please 
+3. I will add more command if i think it's useful
+
